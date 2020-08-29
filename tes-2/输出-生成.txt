@@ -1,0 +1,6 @@
+﻿1>------ 已启动生成: 项目: 99乘法, 配置: Debug Win32 ------
+1>D:\软件\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(tes-2.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+1>test.c
+1>tes-2.vcxproj -> D:\编程\vs\tes-2\Debug\99乘法.exe
+1>已完成生成项目“tes-2.vcxproj”的操作。
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========
