@@ -1,0 +1,2 @@
+D:\编程\vs\test-1\Debug\test-1.exe
+D:\编程\vs\test-1\Debug\test-1.pdb

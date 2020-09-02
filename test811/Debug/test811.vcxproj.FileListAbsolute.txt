@@ -1,0 +1,2 @@
+D:\编程\vs\test811\Debug\test811.exe
+D:\编程\vs\test811\Debug\test811.pdb

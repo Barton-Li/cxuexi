@@ -1,0 +1,2 @@
+D:\编程\vs\wuziiqi\Debug\wuziiqi.exe
+D:\编程\vs\wuziiqi\Debug\wuziiqi.pdb
