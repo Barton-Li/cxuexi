@@ -1,0 +1,2 @@
+D:\编程\vs\test3p\Debug\test3p.exe
+D:\编程\vs\test3p\Debug\test3p.pdb
