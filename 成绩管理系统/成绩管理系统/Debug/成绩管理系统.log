@@ -1,0 +1,8 @@
+﻿  student.c
+D:\编程\vs\成绩管理系统\成绩管理系统\student.c(22,32): warning C4013: “malloc”未定义；假设外部返回 int
+D:\编程\vs\成绩管理系统\成绩管理系统\student.c(45,8): warning C4013: “system”未定义；假设外部返回 int
+D:\编程\vs\成绩管理系统\成绩管理系统\student.c(158,10): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“int”
+D:\编程\vs\成绩管理系统\成绩管理系统\student.c(158,10): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 3 拥有了类型“int”
+D:\编程\vs\成绩管理系统\成绩管理系统\student.c(179,7): warning C4013: “free”未定义；假设外部返回 int
+D:\编程\vs\成绩管理系统\成绩管理系统\student.c(198,12): warning C4098: “DeleteStudent”:“void”函数返回值
+  成绩管理系统.vcxproj -> D:\编程\vs\成绩管理系统\Debug\成绩管理系统.exe
