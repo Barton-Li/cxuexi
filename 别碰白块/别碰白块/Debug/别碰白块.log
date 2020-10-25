@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\编程\vs\别碰白块\别碰白块\main.cpp(11,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\编程\vs\别碰白块\别碰白块\main.cpp(11,12): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\编程\vs\别碰白块\别碰白块\main.cpp(19,12): warning C4305: “=”: 从“double”到“float”截断
+D:\编程\vs\别碰白块\别碰白块\main.cpp(64,66): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\编程\vs\别碰白块\别碰白块\main.cpp(64,55): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\编程\vs\别碰白块\别碰白块\main.cpp(64,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\编程\vs\别碰白块\别碰白块\main.cpp(64,16): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\编程\vs\别碰白块\别碰白块\main.cpp(65,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\编程\vs\别碰白块\别碰白块\main.cpp(65,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\编程\vs\别碰白块\别碰白块\main.cpp(65,13): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  别碰白块.vcxproj -> D:\编程\vs\别碰白块\Debug\别碰白块.exe
