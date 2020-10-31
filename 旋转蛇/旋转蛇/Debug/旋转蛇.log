@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\编程\vs\旋转蛇\旋转蛇\main.cpp(8,20): warning C4305: “初始化”: 从“double”到“float”截断
+D:\编程\vs\旋转蛇\旋转蛇\main.cpp(13,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\编程\vs\旋转蛇\旋转蛇\main.cpp(32,13): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\编程\vs\旋转蛇\旋转蛇\main.cpp(33,43): warning C4305: “参数”: 从“double”到“float”截断
+D:\编程\vs\旋转蛇\旋转蛇\main.cpp(34,49): warning C4305: “参数”: 从“double”到“float”截断
+  旋转蛇.vcxproj -> D:\编程\vs\旋转蛇\Debug\旋转蛇.exe
