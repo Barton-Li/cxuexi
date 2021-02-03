@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "见缝插针", "见缝插针\见缝插针.vcxproj", "{36F80111-3FDD-4F0F-AA25-FD73B1891CBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36F80111-3FDD-4F0F-AA25-FD73B1891CBF}.Debug|x64.ActiveCfg = Debug|x64
+		{36F80111-3FDD-4F0F-AA25-FD73B1891CBF}.Debug|x64.Build.0 = Debug|x64
+		{36F80111-3FDD-4F0F-AA25-FD73B1891CBF}.Debug|x86.ActiveCfg = Debug|Win32
+		{36F80111-3FDD-4F0F-AA25-FD73B1891CBF}.Debug|x86.Build.0 = Debug|Win32
+		{36F80111-3FDD-4F0F-AA25-FD73B1891CBF}.Release|x64.ActiveCfg = Release|x64
+		{36F80111-3FDD-4F0F-AA25-FD73B1891CBF}.Release|x64.Build.0 = Release|x64
+		{36F80111-3FDD-4F0F-AA25-FD73B1891CBF}.Release|x86.ActiveCfg = Release|Win32
+		{36F80111-3FDD-4F0F-AA25-FD73B1891CBF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FE94C42-55E0-4E72-A02E-4DF56018E505}
+	EndGlobalSection
+EndGlobal

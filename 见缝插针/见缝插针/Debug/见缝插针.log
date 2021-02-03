@@ -1,0 +1,15 @@
+﻿  test.cpp
+D:\编程\vs\见缝插针\见缝插针\test.cpp(8,28): warning C4305: “初始化”: 从“double”到“float”截断
+D:\编程\vs\见缝插针\见缝插针\test.cpp(28,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\编程\vs\见缝插针\见缝插针\test.cpp(35,40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\编程\vs\见缝插针\见缝插针\test.cpp(36,40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\编程\vs\见缝插针\见缝插针\test.cpp(40,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\编程\vs\见缝插针\见缝插针\test.cpp(40,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\编程\vs\见缝插针\见缝插针\test.cpp(49,51): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\编程\vs\见缝插针\见缝插针\test.cpp(50,51): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\编程\vs\见缝插针\见缝插针\test.cpp(51,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\编程\vs\见缝插针\见缝插针\test.cpp(51,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\编程\vs\见缝插针\见缝插针\test.cpp(63,47): warning C4305: “参数”: 从“double”到“float”截断
+D:\编程\vs\见缝插针\见缝插针\test.cpp(63,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\编程\vs\见缝插针\见缝插针\test.cpp(64,36): warning C4305: “参数”: 从“double”到“float”截断
+  见缝插针.vcxproj -> D:\编程\vs\见缝插针\Debug\见缝插针.exe
